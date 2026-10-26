@@ -1,6 +1,5 @@
 <p align="center">
-  <!-- Imagem / GIF estilo Arte Digital & Código -->
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="550px" alt="Digital Creation of Adam">
+  <img src="creation_of_adam.gif" width="550px" alt="Pixel Art Creation of Adam">
 </p>
 
 <h1 align="center">Hi there, I'm a Developer 👋</h1>
