@@ -24,3 +24,4 @@
 [![](https://komarev.com/ghpvc/?username=ddkmoedas&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center"> <img src="assets/gif.gif" width="480" alt="Pixel hands animation"> </p>
