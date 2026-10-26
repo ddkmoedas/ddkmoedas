@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="creation_of_adam.gif" width="550px" alt="Pixel Art Creation of Adam">
-</p>
+
+
+https://github.com/user-attachments/assets/7b94a533-2254-4c79-bf31-75b4cb4bc1c1
+
+
 
 <h1 align="center">Hi there, I'm a Developer 👋</h1>
 # 💫 About Me:
