@@ -3,7 +3,9 @@
 </p>
 
 <h1 align="center">Hi there, I'm a Developer 👋</h1>
-# 💫 About Me:
+
+💫 About Me:
+
 💻 I’m currently working on my learning projects in C#, Kotlin and web development<br>🧠 I’m currently learning Python and expanding my Kotlin skills<br>✨ I’m looking to collaborate on beginner-friendly projects<br>💬 Ask me about my journey learning multiple programming languages<br>🎧 Fun fact I love music and learning new things every day
 
 
