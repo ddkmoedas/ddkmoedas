@@ -1,4 +1,8 @@
-<img src="https://raw.githubusercontent.com/ddkmoedas/ddkmoedas/refs/heads/main/87c960e6252c484abc5abe8da1d36ae6_720w-ezgif.com-video-to-gif-converter.gif" width="550px" alt="Pixel hands animation">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ddkmoedas/ddkmoedas/refs/heads/main/87c960e6252c484abc5abe8da1d36ae6_720w-ezgif.com-video-to-gif-converter.gif" width="550px" alt="Pixel hands animation">
+</p>
+
+<h1 align="center">Hi there, I'm a Developer 👋</h1>
 # 💫 About Me:
 💻 I’m currently working on my learning projects in C#, Kotlin and web development<br>🧠 I’m currently learning Python and expanding my Kotlin skills<br>✨ I’m looking to collaborate on beginner-friendly projects<br>💬 Ask me about my journey learning multiple programming languages<br>🎧 Fun fact I love music and learning new things every day
 
