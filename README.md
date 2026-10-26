@@ -1,9 +1,5 @@
-
-
-https://github.com/user-attachments/assets/1619eed5-8e8d-4946-86e4-6d88ce1e3899
-
 <p align="center">
-  <video src="87c960e6252c484abc5abe8da1d36ae6_720w.mp4" width="550px" autoplay loop muted playsinline></video>
+  <img src="https://i.imgur.com/KGJR2E2.gif" width="550px" alt="Creation of Adam Pixel Animation">
 </p>
 
 <h1 align="center">Hi there, I'm a Developer 👋</h1>
