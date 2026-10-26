@@ -1,9 +1,4 @@
 
-
-<p align="center"> <img src="https://github.com/user-attachments/assets/9f7b893d-ea5e-4ff3-8aeb-df59ecfda96a" width="550px" alt="Pixel hands animation"> </p> <h1 align="center">Hi there, I'm a Developer 👋</h1>
-
-
-
 # 💫 About Me:
 💻 I’m currently working on my learning projects in C#, Kotlin and web development<br>🧠 I’m currently learning Python and expanding my Kotlin skills<br>✨ I’m looking to collaborate on beginner-friendly projects<br>💬 Ask me about my journey learning multiple programming languages<br>🎧 Fun fact I love music and learning new things every day
 
