@@ -1,3 +1,9 @@
+<p align="center">
+  <!-- Imagem / GIF estilo Arte Digital & Código -->
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="550px" alt="Digital Creation of Adam">
+</p>
+
+<h1 align="center">Hi there, I'm a Developer 👋</h1>
 # 💫 About Me:
 💻 I’m currently working on my learning projects in C#, Kotlin and web development<br>🧠 I’m currently learning Python and expanding my Kotlin skills<br>✨ I’m looking to collaborate on beginner-friendly projects<br>💬 Ask me about my journey learning multiple programming languages<br>🎧 Fun fact I love music and learning new things every day
 
